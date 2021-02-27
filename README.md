@@ -15,3 +15,4 @@ mvn archetype:generate -DgroupId=com.ej -DartifactId=myProject -DarchetypeArtifa
 ```
 
 1
+2

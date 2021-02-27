@@ -1,7 +1,7 @@
 pipeline {
   agent { label 'linux' }
   tools {
-    maven 'Maven363'
+    maven 'maven363'
   }
   stages {
     stage('checkout') {

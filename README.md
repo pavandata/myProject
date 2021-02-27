@@ -16,3 +16,4 @@ mvn archetype:generate -DgroupId=com.ej -DartifactId=myProject -DarchetypeArtifa
 
 5
 3
+3

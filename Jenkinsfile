@@ -4,7 +4,7 @@ pipeline {
     maven 'maven363'
   }
   stages {
-    stage('checkout') {
+    stage('checkout7') {
       steps {
         git 'https://github.com/pavandata/myProject.git'
       }
